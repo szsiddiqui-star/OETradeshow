@@ -33,7 +33,7 @@ WebUI.click(findTestObject('Object Repository/Tradeshow/Page_OrderEase Demo Trad
 
 WebUI.click(findTestObject('Tradeshow/TS_Page_Navigation/img_Go to Tradeshow'))
 
-WebUI.navigateToUrl('https://app.staging.orderease.show/tradeshow/dashboard')
+not_run: WebUI.navigateToUrl('https://app.staging.orderease.show/tradeshow/dashboard')
 
 WebUI.delay(1)
 
